@@ -1,0 +1,41 @@
+{
+<<<<<<< HEAD
+  "name": "marham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-multipart-file-parser": "^0.1.2",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15"
+  }
+=======
+  "name": "marham_clone_admin_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luminextech/marham_clone_admin_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luminextech/marham_clone_admin_api/issues"
+  },
+  "homepage": "https://github.com/luminextech/marham_clone_admin_api#readme"
+>>>>>>> 331152f06c36eeb3afc28ce55fccb5947e7078cb
+}
